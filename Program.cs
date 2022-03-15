@@ -1,0 +1,1 @@
+﻿new wordle.WordleBot().Play();
